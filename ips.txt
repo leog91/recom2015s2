@@ -1,0 +1,35 @@
+Redes
+
+Listado de IP's
+
+Rango R1 = [200.10.161.251----200.10.161.254]
+Rango R2 = [200.10.161.1  ----200.10.161.220]  
+Rango R3 = [200.10.161.221----200.10.161.230]
+
+--PC's
+----Hacienda              (Usa rango R3 para repartir IP's)    
+----PC's normales
+
+--DNS's
+ 
+ Nota:Del rango R1 los 2 ultimos son los principales y los otros son de hacienda.
+ 
+ DNS-primario            -> 200.10.161.254
+ DNS-secundario          -> 200.10.161.253
+ DNS-Hacienda-Primario   -> 200.10.161.252
+ DNS-Hacienda-Secundario -> 200.10.161.251
+
+--DHCP -> 200.10.161.250  (Usa rango R2 para repartir IP's)  
+
+--Servidores
+--Mail                   -> 200.10.161.249 
+  info.campus.unq.edu.ar -> 200.10.161.248
+  campus.unq.edu.ar      -> 200.10.161.247
+  unq.edu.ar             -> 200.10.161.246
+  sh.unq.edu.ar          -> 200.10.161.245
+
+--Firewall
+----Allow               [200.10.161.221----200.10.161.230]
+----Deny   not(Pertenece[200.10.161.221----200.10.161.230])
+
+--Otros
