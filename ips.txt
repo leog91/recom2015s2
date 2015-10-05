@@ -28,8 +28,15 @@ Rango R3 = [200.10.161.221----200.10.161.230]
   unq.edu.ar             -> 200.10.161.246
   sh.unq.edu.ar          -> 200.10.161.245
 
+
+--Wireless Devices
+   Wifi device 1         -> 200.10.161.244
+   Wifi device 2         -> 200.10.161.243
+
+--Router Gateway
+   Router4               -> 200.10.161.242
+
+
 --Firewall
 ----Allow               [200.10.161.221----200.10.161.230]
 ----Deny   not(Pertenece[200.10.161.221----200.10.161.230])
-
---Otros
