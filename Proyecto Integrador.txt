@@ -1,0 +1,61 @@
+Proyecto Integrador 
+
+
+FAC  888
+
+CABA	689
+	1	164
+		20 puestos aula 11
+		60 puestos aula 12
+		20 puestos aula 13
+		60 api
+		4 bedelia
+
+
+	2	120
+		40 depto de alumnos
+		80 depto de graduados
+
+	7	100
+		20 puestos secretaria gral
+		30 puertos habitat
+		20 puestos facturacion y liquidaciones 
+		30 depto de personal
+
+	10	305
+		200 puestos (100 sv)Centro de datos
+		30 puestos depto sistemas
+		10 puestos decanato
+		15 secretaria academica
+		15 cultura y bienestar
+		15 investigacion cientifica y tecnologia
+		20 hacienda
+
+
+Quilmes	110
+	2	10
+		4 bedelia
+		6 servidores y conectividad
+
+	1	100
+		20 aula 11
+		20 aula 12
+		40 aula 13
+		20 aula 14
+
+Avellaneda 89
+
+	2	89
+		20 puestos aula 21
+		20 aula 22
+		40 aula 23
+		5 bedelia
+		4 cuartos de servidores y conectividad
+
+
+	Las oficinas del Departamento de Sistemas 30 puestos de trabajo
+La oficina del Decanato de la Facultad la cual tiene 10 puestos de trabajo
+La Secretaría Académica, 15 puestos de trabajo
+Secretaría de Extensión,Cultura, y Bienestar, 15 puestos de trabajo
+Secretaría Investigación Científica y Tecnológica, 15 puestos de trabajo
+Secretaría Hacienda, 20 puestos de trabajo
