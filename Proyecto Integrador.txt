@@ -52,10 +52,9 @@ Avellaneda 89
 		5 bedelia
 		4 cuartos de servidores y conectividad
 
+Ips
+Routers
+ CABA		 10.10.3.1/24 INT5 10.10.6.1/24 INT6 
+ AVELLANEDA  10.10.5.1/24 INT5 10.10.10.1/24 INT6 
+ QUILMES     10.10.7.1/24 INT5 10.10.14.1/24 INT6 
 
-	Las oficinas del Departamento de Sistemas 30 puestos de trabajo
-La oficina del Decanato de la Facultad la cual tiene 10 puestos de trabajo
-La Secretaría Académica, 15 puestos de trabajo
-Secretaría de Extensión,Cultura, y Bienestar, 15 puestos de trabajo
-Secretaría Investigación Científica y Tecnológica, 15 puestos de trabajo
-Secretaría Hacienda, 20 puestos de trabajo
