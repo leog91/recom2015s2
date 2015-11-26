@@ -1,6 +1,8 @@
 Proyecto Integrador 
 
 
+https://todopacketracer.wordpress.com/2011/11/26/configurar-nat-estatico/
+
 FAC  888
 
 CABA	689
@@ -51,3 +53,13 @@ Avellaneda 89
 		40 aula 23
 		5 bedelia
 		4 cuartos de servidores y conectividad
+<<<<<<< HEAD
+=======
+
+Ips
+Routers
+ CABA		 10.10.3.1/24 INT5 10.10.6.1/24 INT6 
+ AVELLANEDA  10.10.5.1/24 INT5 10.10.10.1/24 INT6 
+ QUILMES     10.10.7.1/24 INT5 10.10.14.1/24 INT6 
+
+>>>>>>> c6ff572fd19b5f585adb9802d2be8b0d6b9df655
