@@ -51,11 +51,3 @@ Avellaneda 89
 		40 aula 23
 		5 bedelia
 		4 cuartos de servidores y conectividad
-
-
-	Las oficinas del Departamento de Sistemas 30 puestos de trabajo
-La oficina del Decanato de la Facultad la cual tiene 10 puestos de trabajo
-La Secretaría Académica, 15 puestos de trabajo
-Secretaría de Extensión,Cultura, y Bienestar, 15 puestos de trabajo
-Secretaría Investigación Científica y Tecnológica, 15 puestos de trabajo
-Secretaría Hacienda, 20 puestos de trabajo

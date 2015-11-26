@@ -1,0 +1,37 @@
+10.255.255.255
+172.31.255.255
+192.168.255.255
+
+CABA -> red: 10.255.0.0
+			 225.255.0.0
+		gateway -> 10.255.255.200
+		dns 	-> 10.255.255.250
+		dhcp 	-> 10.255.255.254
+			--> poolserver 					-> 10.0.4.0	(90)  VLAN 1 (default)
+			--> pool Secretaria Academica 	-> 10.0.1.0 (254) VLAN 2
+			--> pool Secretaria Hacienda	-> 10.0.2.0 (70)  VLAN 3
+			--> pool Secretaria General  	-> 10.0.3.0	 (90) VLAN 4
+			
+		unq.edu.ar 				-> 10.255.255.100
+		campus.unq.edu 			-> 10.255.255.101
+		info.campus.unq.edu.ar	-> 10.255.255.102
+		sh.unq.edu.ar 			-> 10.255.255.103
+			
+			
+Avellaneda -> red:	172.16.0.0 - 172.31.255.255	  
+	
+	gateway -> 172.16.255.200
+
+
+	
+	
+	
+Quilmes ->	red:  192.168.0.0 - 192.168.255.255	
+
+	gateway -> 192.168.255.200
+	
+	
+
+	
+			
+			
